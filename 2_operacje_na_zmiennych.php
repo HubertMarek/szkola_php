@@ -71,6 +71,6 @@ $test3 = (unset)$test3;
 echo "$test3<br>";
 echo 'Typ danych $test3: ', gettype($test3), '<br>';
 
-
+echo PHP_INT_SIZE;
 
 ?>
