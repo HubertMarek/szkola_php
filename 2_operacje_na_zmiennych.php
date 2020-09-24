@@ -24,7 +24,8 @@ else
 echo gettype($x); // integer
 echo gettype($y); // double
 
-/* preinkrementacja ++$i
+/*
+  preinkrementacja ++$i
   predekrementacja --$1
   postdekrementacja $1--
   postinkrementacja $i++
