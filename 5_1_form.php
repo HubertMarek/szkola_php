@@ -9,7 +9,7 @@
   if (!empty($_GET['surname']))
   {
     $surname = $_GET['surname'];
-    if(!empty($surname))
+    if(!empty($surname)) 
     {
       echo "Nazwisko: $surname<hr>";
       echo "<a href=\"./5_1_form.php\">Powrót do formularza</a>";
